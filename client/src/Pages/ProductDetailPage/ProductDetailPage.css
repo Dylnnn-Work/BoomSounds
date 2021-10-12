@@ -1,0 +1,26 @@
+.page-add-review-container {
+  margin: 10px 50px;
+  padding: 20px;
+}
+
+.reviews-section-title {
+  font-size: 3em;
+  color: black;
+}
+
+.pd-price-text {
+  color: black;
+  font-size: 2em;
+  font-weight: 700;
+}
+
+.page-reviews-list {
+  background: linear-gradient(
+    90deg,
+    rgba(0, 0, 0, 1) 0%,
+    rgba(0, 7, 50, 1) 100%
+  );
+  width: 60%;
+  margin: 0px 50px;
+  padding: 50px;
+}
